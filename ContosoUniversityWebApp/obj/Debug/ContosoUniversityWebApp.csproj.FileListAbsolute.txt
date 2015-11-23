@@ -1,0 +1,48 @@
+c:\users\dell\documents\visual studio 2015\Projects\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\roslyn\csc.exe
+c:\users\dell\documents\visual studio 2015\Projects\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\dell\documents\visual studio 2015\Projects\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\dell\documents\visual studio 2015\Projects\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\dell\documents\visual studio 2015\Projects\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\dell\documents\visual studio 2015\Projects\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\dell\documents\visual studio 2015\Projects\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\dell\documents\visual studio 2015\Projects\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\roslyn\System.Collections.Immutable.dll
+c:\users\dell\documents\visual studio 2015\Projects\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\dell\documents\visual studio 2015\Projects\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\roslyn\vbc.exe
+c:\users\dell\documents\visual studio 2015\Projects\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\roslyn\VBCSCompiler.exe
+c:\users\dell\documents\visual studio 2015\Projects\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\roslyn\VBCSCompiler.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\ContosoUniversityWebApp.dll.config
+c:\users\dell\documents\visual studio 2015\Projects\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\ContosoUniversityWebApp.dll
+c:\users\dell\documents\visual studio 2015\Projects\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\ContosoUniversityWebApp.pdb
+c:\users\dell\documents\visual studio 2015\Projects\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\EntityFramework.dll
+c:\users\dell\documents\visual studio 2015\Projects\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\EntityFramework.SqlServer.dll
+c:\users\dell\documents\visual studio 2015\Projects\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\dell\documents\visual studio 2015\Projects\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\EntityFramework.xml
+c:\users\dell\documents\visual studio 2015\Projects\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\EntityFramework.SqlServer.xml
+c:\users\dell\documents\visual studio 2015\Projects\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\dell\documents\visual studio 2015\Projects\ContosoUniversityWebApp\ContosoUniversityWebApp\obj\Debug\ContosoUniversityWebApp.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\ContosoUniversityWebApp\ContosoUniversityWebApp\obj\Debug\ContosoUniversityWebApp.dll
+c:\users\dell\documents\visual studio 2015\Projects\ContosoUniversityWebApp\ContosoUniversityWebApp\obj\Debug\ContosoUniversityWebApp.pdb
+C:\Users\DELL\Desktop\GitHub\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\roslyn\csc.exe
+C:\Users\DELL\Desktop\GitHub\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Desktop\GitHub\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\GitHub\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\GitHub\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Desktop\GitHub\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Desktop\GitHub\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Desktop\GitHub\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Desktop\GitHub\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Desktop\GitHub\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\roslyn\vbc.exe
+C:\Users\DELL\Desktop\GitHub\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Desktop\GitHub\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Desktop\GitHub\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\ContosoUniversityWebApp.dll.config
+C:\Users\DELL\Desktop\GitHub\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\ContosoUniversityWebApp.dll
+C:\Users\DELL\Desktop\GitHub\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\ContosoUniversityWebApp.pdb
+C:\Users\DELL\Desktop\GitHub\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\EntityFramework.dll
+C:\Users\DELL\Desktop\GitHub\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\GitHub\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Desktop\GitHub\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\EntityFramework.xml
+C:\Users\DELL\Desktop\GitHub\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\GitHub\ContosoUniversityWebApp\ContosoUniversityWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Desktop\GitHub\ContosoUniversityWebApp\ContosoUniversityWebApp\obj\Debug\ContosoUniversityWebApp.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\GitHub\ContosoUniversityWebApp\ContosoUniversityWebApp\obj\Debug\ContosoUniversityWebApp.dll
+C:\Users\DELL\Desktop\GitHub\ContosoUniversityWebApp\ContosoUniversityWebApp\obj\Debug\ContosoUniversityWebApp.pdb
